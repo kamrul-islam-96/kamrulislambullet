@@ -10,17 +10,15 @@
 
 <br/>
 
-<!-- Profile Views + Followers -->
-<img src="https://komarev.com/ghpvc/?username=kamrul-islam-96&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
+<img src="https://komarev.com/ghpvc/?username=kamrulislambullet&label=Profile+Views&color=0d1117&style=for-the-badge&labelColor=00d4ff" />
 &nbsp;
-<img src="https://img.shields.io/github/followers/kamrul-islam-96?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d4ff" />
+<img src="https://img.shields.io/github/followers/kamrulislambullet?label=Followers&style=for-the-badge&color=0d1117&labelColor=00d4ff" />
 
 </div>
 
 ---
 
-<!-- About Section -->
-<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360" style="border-radius:12px;"/>
+<img align="right" alt="Coding GIF" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="360"/>
 
 ### 👨‍💻 About Me
 
@@ -111,8 +109,6 @@ const kamrul = {
 
 ## 🚀 Featured Projects
 
-> 💡 *আপনার actual project repo গুলোর নাম নিচে বসান — এটা placeholder*
-
 <div align="center">
 
 | 🚀 Project | 🛠 Tech | 🔗 Link |
@@ -143,7 +139,7 @@ const kamrul = {
   <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/kamrulhasanbullet">
+<a href="https://linkedin.com/in/kamrulislambullet">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -158,7 +154,6 @@ const kamrul = {
 
 <div align="center">
 
-<!-- Footer Wave -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" width="100%"/>
 
 **⭐ If you like my work, consider starring my repositories!**
